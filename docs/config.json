@@ -5,13 +5,15 @@
   },
   "locales": {
     "default": "zh",
-    "available": ["zh"]
+    "available": [
+      "zh"
+    ]
   },
   "theme": {
     "primary_color": "#111111",
     "dark_mode": true
   },
   "footer": {
-    "copyright": "© 2025 AI出海去 aichuhaiqu.com"
+    "copyright": "© 2026 AI出海去 aichuhaiqu.com"
   }
 }
