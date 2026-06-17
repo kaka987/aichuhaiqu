@@ -1,4 +1,8 @@
 ## 所有时间参考选取系统当前最新时间
+## 文档撰写规范
+- AI工具文档撰写前，请先阅读 `rules/ai-tools-doc-template.md` 中的规范和模板
+- 原始素材放置在 `assets/docs/` 目录下（已 gitignore，不会提交）
+- 新增文档后须同步更新 `docs/zh/_sidebar.md`
 ## 同步命令
 - 全量同步
 ```powershell
