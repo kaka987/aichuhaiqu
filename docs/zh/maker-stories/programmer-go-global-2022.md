@@ -1,10 +1,5 @@
 ---
 title: "20 年前就有人出海赚美元了，今天我们换了个姿势而已"
-date: 2026-06-17
-slug: "programmer-go-global-2022"
-tags: ["maker-story", "growth"]
-status: "published"
-excerpt: "2000 年《程序员》杂志那篇《到美国去赚美元》改变了一代人的命运。20 年后的今天，出海的人换了，工具换了，但市场的底层逻辑从未改变。"
 ---
 
 > **编者按**

@@ -6,3 +6,5 @@
 - [增长&SEO](growth/index.md)
 - [流量变现](monetization/index.md)
 - [跨境电商](ecommerce/index.md)
+- [创客故事](maker-stories/index.md)
+- [案例拆解](case-studies/index.md)
