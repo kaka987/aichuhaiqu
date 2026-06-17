@@ -1,8 +1,12 @@
 ---
 title: "一个不能卖钱的产品，怎么靠流量年入百万？CC Switch 的赞助变现拆解"
+description: "CC Switch 是一个 MIT 开源的桌面工具，不卖订阅、不收费。但它用 103k Star 撬动了 20+ 家赞助商，走出了一条「流量即收入」的路。拆解它的赞助变现逻辑和可复制性。"
+date: 2026-06-17
+tags: [case-study, monetization]
 ---
+# CC Switch 的赞助变现拆解
 
-前几天在 GitHub Trending 上刷到一个项目——CC Switch，一个管理 AI 编程工具配置的桌面应用。打开 Github 一看，Star 数已经飙到 103k，Fork 6.8k。
+使用codex/claude code的伙伴们，应该都用过或听过这个软件——CC Switch，一个管理 AI 编程工具配置的桌面应用。打开 Github 一看，Star 数已经飙到 103k，Fork 6.8k。
 
 但让我真正停下来研究的不是功能，而是它的 README 里那张长长的赞助商列表。
 

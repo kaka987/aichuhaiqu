@@ -5,24 +5,29 @@ description: 中国开发者出海一站式知识库，涵盖 AI 工具、海外
 
 # AI出海去知识库
 
-欢迎来到 AI出海去知识库！这里汇集了中国开发者出海所需的全方位知识，从公司注册到产品变现，一站搞定。
+这里汇集了中国开发者出海所需的全链路知识。不管你是刚起步的独立开发者，还是已经有产品想拓展海外市场的团队，都能找到对应阶段的实用内容。
 
-## 内容板块
+## 出海路线图
+
+按照「从 0 到 1」的出海顺序，我们将内容组织为以下阶段：
+
+| 阶段 | 板块 | 核心问题 |
+|------|------|----------|
+| ① 注册公司 | [注册海外公司](overseas-company/index.md) | 选美国 LLC 还是新加坡？需要什么材料？ |
+| ② 开通收款 | [海外收付款](payment/index.md) | Stripe 还是 PayPal？怎么收美金回国内？ |
+| ③ 搭建产品 | [AI工具&技术](ai-tools/index.md) | 用什么 AI 工具提效？怎么选技术栈？ |
+| ④ 产品发布 | [产品发布](product-launch/index.md) | Product Hunt 怎么打？HN 发帖有什么讲究？ |
+| ⑤ 增长获客 | [增长&广告&SEO](growth/index.md) | SEO 怎么起步？Google Ads 怎么投？ |
+| ⑥ 流量变现 | [流量变现](monetization/index.md) | 订阅、广告、联盟营销，哪种适合我？ |
+
+## 更多内容
 
 | 板块 | 内容 |
 |------|------|
-| [AI工具&技术](ai-tools/index.md) | 最新 AI 工具推荐、技术解析与实践指南 |
-| [注册海外公司](overseas-company/index.md) | 美国、新加坡、香港公司注册全流程 |
-| [海外收付款](payment/index.md) | Stripe、PayPal、Wise 等收付款方案 |
-| [产品发布](product-launch/index.md) | Product Hunt、Hacker News 发布攻略 |
-| [增长&广告&SEO](growth/index.md) | Google Ads、SEO、社交媒体增长策略 |
-| [流量变现](monetization/index.md) | 广告、订阅、联盟营销等变现模式 |
-| [跨境电商](ecommerce/index.md) | Shopify、亚马逊等跨境电商运营 |
+| [跨境电商](ecommerce/index.md) | Shopify、亚马逊等跨境电商运营实战 |
+| [创客故事](maker-stories/index.md) | 独立开发者和创业者的出海经历与访谈 |
+| [案例拆解](case-studies/index.md) | 出海产品的变现逻辑、增长路径深度复盘 |
 
-## 时效内容
+## 周刊
 
-以下内容在 [博客](/blog) 中持续更新：
-
-- **AI出海去周刊** — 每周精选出海资讯
-- **创客故事** — 独立开发者出海经验分享
-- **成功案例** — 出海产品深度拆解
+[AI出海去周刊](/blog) 每周更新，精选当周 AI 出海资讯、工具、教程与行业动态。
