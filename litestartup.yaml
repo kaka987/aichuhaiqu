@@ -1,0 +1,15 @@
+version: 1
+binding_id: 7
+domain: aichuhaiqu.com
+domain_slug: domain-9cdc304ab3bd18a98396fd3fba0104f3
+endpoint: https://api.litestartup.com
+repo_url: https://github.com/kaka987/aichuhaiqu.git
+sync:
+  blog:
+    path: "blog/**/*.md"
+  website:
+    path: "website/**/*.html"
+  docs:
+    path: "docs/**/*.md"
+  changelog:
+    path: "changelog/**/*.md"
