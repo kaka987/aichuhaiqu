@@ -1,0 +1,17 @@
+{
+  "site": {
+    "title": "AI出海去 - 知识库",
+    "description": "中国开发者出海一站式知识库：AI工具、海外公司注册、收付款、产品发布、增长策略"
+  },
+  "locales": {
+    "default": "zh",
+    "available": ["zh"]
+  },
+  "theme": {
+    "primary_color": "#111111",
+    "dark_mode": true
+  },
+  "footer": {
+    "copyright": "© 2025 AI出海去 aichuhaiqu.com"
+  }
+}
