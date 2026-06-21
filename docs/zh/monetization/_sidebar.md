@@ -1,2 +1,3 @@
 - [概览](index.md)
 - [联盟营销「黑五类」详解](affiliate-dark-five-explained.md)
+- [AdSense 不只是挂广告](adsense-unconventional-guide.md)
