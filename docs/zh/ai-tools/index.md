@@ -1,5 +1,6 @@
 ---
 title: AI工具&技术
+code: "C00"
 description: 最新 AI 工具推荐、技术解析与实践指南
 ---
 

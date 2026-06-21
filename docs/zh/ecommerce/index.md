@@ -1,5 +1,6 @@
 ---
 title: 跨境电商
+code: "G00"
 description: Shopify、亚马逊等跨境电商运营实战指南
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 产品发布
+code: "D00"
 description: Product Hunt、Hacker News 等平台产品发布攻略
 ---
 

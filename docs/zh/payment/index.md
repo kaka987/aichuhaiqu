@@ -1,5 +1,6 @@
 ---
 title: 海外收付款
+code: "B00"
 description: Stripe、PayPal、Wise 等海外收付款方案对比与接入指南
 ---
 

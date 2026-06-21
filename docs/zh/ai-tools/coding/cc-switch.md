@@ -5,6 +5,7 @@ date: 2025-06-17
 tags: [coding, config-management, cross-platform]
 github_star: 103000
 status: recommended
+code: "C01"
 ---
 
 # CC Switch — AI 编程工具统一管理神器

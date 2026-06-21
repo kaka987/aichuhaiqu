@@ -10,4 +10,5 @@
 - [CC Switch 变现拆解](case-studies/cc-switch-monetization-playbook.md)
 - [程序员出海 20 年](maker-stories/programmer-go-global-2022.md)
 - [联盟营销「黑五类」](monetization/affiliate-dark-five-explained.md)
+- [从 Shein 发家史聊聊跨境电商](ecommerce/shein-rise-and-cross-border-ecommerce.md)
 - [关于本站](https://www.aichuhaiqu.com/about)
