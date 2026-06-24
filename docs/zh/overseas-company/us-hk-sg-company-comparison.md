@@ -163,4 +163,4 @@ tags: [overseas-company]
 
 ---
 
-*相关阅读：[AI 出海为什么要注册海外公司](why-overseas-company-for-ai.md) · [美国 LLC 注册全流程](us-llc-registration-guide.md)*
+*相关阅读：[AI 出海为什么要注册海外公司](overseas-company/why-overseas-company-for-ai.md) · [美国 LLC 注册全流程](overseas-company/us-llc-registration-guide.md)*

@@ -167,4 +167,4 @@ PH 发布的价值不止是当天的排名。之后的一周甚至一个月，PH
 
 ---
 
-*相关阅读：[有钱投流没钱做号：出海流量获取的两条路](../growth/paid-vs-organic-traffic-strategy.md)*
+*相关阅读：[有钱投流没钱做号：出海流量获取的两条路](growth/paid-vs-organic-traffic-strategy.md)*

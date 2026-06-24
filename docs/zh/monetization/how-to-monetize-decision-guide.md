@@ -48,7 +48,7 @@ tags: [monetization]
 
 **什么时候别用：** 你的产品是「用一次就走」的（比如一个一次性的转换工具）。硬上订阅，用户会觉得不值，转化极差。这种更适合买断或按量。
 
-定价的具体怎么设、怎么涨价、怎么避免常见错误，见 [SaaS 定价踩坑记](saas-pricing-strategy-guide.md)。
+定价的具体怎么设、怎么涨价、怎么避免常见错误，见 [SaaS 定价踩坑记](monetization/saas-pricing-strategy-guide.md)。
 
 ## 一次性买断：适合低频工具和数字商品
 
@@ -64,14 +64,14 @@ tags: [monetization]
 
 **什么时候用：** 你卖的是一个有明确单位成本的服务——API 调用、AI 处理、算力。AI 产品尤其要认真考虑这种，因为每次调用都在花钱。
 
-**什么时候别用：** 成本没算清就上。按量计费如果定价低于成本，卖得越多亏得越多。具体怎么把能力做成 API、怎么定价不倒贴，见 [把能力做成 API 卖](api-as-a-business.md)。
+**什么时候别用：** 成本没算清就上。按量计费如果定价低于成本，卖得越多亏得越多。具体怎么把能力做成 API、怎么定价不倒贴，见 [把能力做成 API 卖](monetization/api-as-a-business.md)。
 
 ## 广告与联盟：适合内容和流量站
 
 如果你做的不是工具，而是一个有人来看的站（博客、导航站、测评站），那变现靠的是流量本身。
 
-- **广告**（如 AdSense）：挂上广告位，按展示/点击赚钱。单价低，需要可观流量才有意义。但玩法不止挂码这么简单，见 [AdSense 不只是挂广告](adsense-unconventional-guide.md)。
-- **联盟营销**：推荐别人的产品，成交后抽佣。零库存、利润率高，但依赖你的流量和读者信任。正经的白帽做法见 [联盟营销的正路](affiliate-marketing-the-right-way.md)；那些高佣金高风险的灰色地带，见 [联盟营销「黑五类」](affiliate-dark-five-explained.md)。
+- **广告**（如 AdSense）：挂上广告位，按展示/点击赚钱。单价低，需要可观流量才有意义。但玩法不止挂码这么简单，见 [AdSense 不只是挂广告](monetization/adsense-unconventional-guide.md)。
+- **联盟营销**：推荐别人的产品，成交后抽佣。零库存、利润率高，但依赖你的流量和读者信任。正经的白帽做法见 [联盟营销的正路](monetization/affiliate-marketing-the-right-way.md)；那些高佣金高风险的灰色地带，见 [联盟营销「黑五类」](monetization/affiliate-dark-five-explained.md)。
 
 **什么时候用：** 你擅长做内容、做 SEO，能持续带来流量，但没有自己的软件产品。
 
@@ -81,8 +81,8 @@ tags: [monetization]
 
 如果你积累了影响力——一个受欢迎的开源项目、一批 Twitter 受众、一个活跃社区——你可以直接把影响力变现。
 
-- **赞助 / 打赏**：GitHub Sponsors、Ko-fi、README 里的赞助商位。不卖产品，靠影响力和人情。开源工具 CC Switch 就是靠 Star 数撬动赞助商（见 [CC Switch 变现拆解](../case-studies/cc-switch-monetization-playbook.md)）。详细玩法见 [打赏、赞助与影响力变现](sponsorship-and-influence-monetization.md)。
-- **信息产品**：把你的知识打包成电子书、课程、模板卖。边际成本近零，做一次卖无数份。Daniel Vassallo、Marc Lou 都靠这个赚到百万（见 [卖信息产品](selling-info-products.md)）。
+- **赞助 / 打赏**：GitHub Sponsors、Ko-fi、README 里的赞助商位。不卖产品，靠影响力和人情。开源工具 CC Switch 就是靠 Star 数撬动赞助商（见 [CC Switch 变现拆解](case-studies/cc-switch-monetization-playbook.md)）。详细玩法见 [打赏、赞助与影响力变现](monetization/sponsorship-and-influence-monetization.md)。
+- **信息产品**：把你的知识打包成电子书、课程、模板卖。边际成本近零，做一次卖无数份。Daniel Vassallo、Marc Lou 都靠这个赚到百万（见 [卖信息产品](monetization/selling-info-products.md)）。
 
 **什么时候用：** 你已经有受众或影响力，哪怕产品本身不赚钱，也能靠影响力变现。
 
@@ -114,4 +114,4 @@ tags: [monetization]
 
 *这是流量变现栏目的导航总览。每种方式的具体做法，见下方分篇。*
 
-*相关阅读：[SaaS 定价踩坑记](saas-pricing-strategy-guide.md) · [联盟营销的正路](affiliate-marketing-the-right-way.md) · [卖信息产品](selling-info-products.md) · [打赏与赞助变现](sponsorship-and-influence-monetization.md) · [把能力做成 API 卖](api-as-a-business.md)*
+*相关阅读：[SaaS 定价踩坑记](monetization/saas-pricing-strategy-guide.md) · [联盟营销的正路](monetization/affiliate-marketing-the-right-way.md) · [卖信息产品](monetization/selling-info-products.md) · [打赏与赞助变现](monetization/sponsorship-and-influence-monetization.md) · [把能力做成 API 卖](monetization/api-as-a-business.md)*

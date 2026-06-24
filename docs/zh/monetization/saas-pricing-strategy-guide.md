@@ -212,4 +212,4 @@ Freemium 的免费版如果太好用，用户永远不需要升级。
 
 ---
 
-*相关阅读：[Stripe 和 PayPal 之外的收款工具](../payment/overseas-payment-tools-beyond-mainstream.md) · [AdSense 的前世今生](adsense-unconventional-guide.md)*
+*相关阅读：[Stripe 和 PayPal 之外的收款工具](payment/overseas-payment-tools-beyond-mainstream.md) · [AdSense 的前世今生](monetization/adsense-unconventional-guide.md)*

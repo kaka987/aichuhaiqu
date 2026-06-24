@@ -147,7 +147,7 @@ YouTube 的好处是内容保质期极长——一条好的教程视频发布一
 
 但社区有规则，**硬广告会被秒删、被封号。** 正确的方式是：提供有价值的内容，自然地提到你的产品。
 
-详细的社区和渠道盘点，见下一篇：[海外流量渠道和社区盘点](overseas-traffic-channels-and-communities.md)
+详细的社区和渠道盘点，见下一篇：[海外流量渠道和社区盘点](growth/overseas-traffic-channels-and-communities.md)
 
 ---
 
@@ -197,4 +197,4 @@ YouTube 的好处是内容保质期极长——一条好的教程视频发布一
 
 ---
 
-*相关阅读：[海外流量渠道和社区盘点](overseas-traffic-channels-and-communities.md) · [独立开发者 SEO 入门](seo-from-zero-for-indie-dev.md)*
+*相关阅读：[海外流量渠道和社区盘点](growth/overseas-traffic-channels-and-communities.md) · [独立开发者 SEO 入门](growth/seo-from-zero-for-indie-dev.md)*

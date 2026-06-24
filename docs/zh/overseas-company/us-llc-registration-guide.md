@@ -188,4 +188,4 @@ Stripe 注册需要：
 
 ---
 
-*下一篇：[美国、香港、新加坡：三地公司怎么选](us-hk-sg-company-comparison.md)*
+*下一篇：[美国、香港、新加坡：三地公司怎么选](overseas-company/us-hk-sg-company-comparison.md)*

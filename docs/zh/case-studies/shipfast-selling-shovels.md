@@ -69,14 +69,14 @@ Marc 做这个产品的逻辑非常顺:
 
 **2. 「卖铲子」比「淘金」更稳。** 直接做一个成功 SaaS 是小概率事件;但给「想做 SaaS 的人」卖工具,需求更稳定、成败不押注单一产品。教程、模板、工具、课程都属于这一类。
 
-**3. 个人品牌是「卖铲子」的前提。** 这类生意高度依赖信任。先用内容和公开建设积累受众,再推产品,顺序不能反。(参考 [有钱投流没钱做号](../growth/paid-vs-organic-traffic-strategy.md))
+**3. 个人品牌是「卖铲子」的前提。** 这类生意高度依赖信任。先用内容和公开建设积累受众,再推产品,顺序不能反。(参考 [有钱投流没钱做号](growth/paid-vs-organic-traffic-strategy.md))
 
-**4. 买断制对工具类产品是合理选择。** 不是所有产品都得做订阅。一次性买断的模板、工具,现金流好、用户决策快。(参考 [SaaS 定价踩坑记](../monetization/saas-pricing-strategy-guide.md))
+**4. 买断制对工具类产品是合理选择。** 不是所有产品都得做订阅。一次性买断的模板、工具,现金流好、用户决策快。(参考 [SaaS 定价踩坑记](monetization/saas-pricing-strategy-guide.md))
 
-> Marc Lou 本人的完整经历(失败 15 次、生活方式、Twitter 打法),见创客故事:[Marc Lou：失败十几次后的「极简」打法](../maker-stories/marc-lou-failing-forward.md)。本篇只拆 ShipFast 这个产品。
+> Marc Lou 本人的完整经历(失败 15 次、生活方式、Twitter 打法),见创客故事:[Marc Lou：失败十几次后的「极简」打法](maker-stories/marc-lou-failing-forward.md)。本篇只拆 ShipFast 这个产品。
 
 ---
 
 *数据来源:Marc Lou 在 ShipFast 产品页、X(Twitter)及公开访谈的披露,具体数字以其本人公开为准。*
 
-*相关阅读:[Marc Lou 创客故事](../maker-stories/marc-lou-failing-forward.md) · [SaaS 定价踩坑记](../monetization/saas-pricing-strategy-guide.md)*
+*相关阅读:[Marc Lou 创客故事](maker-stories/marc-lou-failing-forward.md) · [SaaS 定价踩坑记](monetization/saas-pricing-strategy-guide.md)*

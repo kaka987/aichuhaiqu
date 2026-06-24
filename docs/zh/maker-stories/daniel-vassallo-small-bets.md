@@ -67,7 +67,7 @@ Daniel 有一句被广泛引用的话:
 
 **3. 把你已有的知识打包卖掉。** Daniel 卖的是他的 AWS 经验和 Twitter 经验——都是他「本来就会」的东西。你工作中积累的专业知识,可能就是别人愿意付费的内容。
 
-**4. 先赚到 1000 美金。** 别一上来就想着「创业」。先做个小东西,验证你能从陌生人手里拿到第一笔钱。这个验证,比任何商业计划都重要。(参考 [选品与方向验证](../product-launch/ai-product-idea-validation.md))
+**4. 先赚到 1000 美金。** 别一上来就想着「创业」。先做个小东西,验证你能从陌生人手里拿到第一笔钱。这个验证,比任何商业计划都重要。(参考 [选品与方向验证](product-launch/ai-product-idea-validation.md))
 
 **5. 算好财务安全垫再跳。** 充足存款 + 分散配置 + 明确的「撤退底线」,让辞职创业变成可承受的风险,而不是孤注一掷。
 
@@ -75,4 +75,4 @@ Daniel 有一句被广泛引用的话:
 
 *数据来源:Daniel Vassallo 本人博客(dvassallo.com / Medium)、Indie Hackers 及多家创业媒体的公开披露,具体数字以其本人公开为准。*
 
-*相关阅读:[选品与方向验证](../product-launch/ai-product-idea-validation.md) · [Tony Dinh 创客故事](tony-dinh-zero-to-45k.md) · [从 0 到 1 完整路线图](../zero-to-one-roadmap.md)*
+*相关阅读:[选品与方向验证](product-launch/ai-product-idea-validation.md) · [Tony Dinh 创客故事](maker-stories/tony-dinh-zero-to-45k.md) · [从 0 到 1 完整路线图](zero-to-one-roadmap.md)*

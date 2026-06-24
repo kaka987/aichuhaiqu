@@ -16,7 +16,7 @@ description: 独立开发者和创业者的出海经历、访谈与心路历程
 
 ## 已收录文章
 
-- [20 年前就有人出海赚美元了，今天我们换了个姿势而已](programmer-go-global-2022.md)
+- [20 年前就有人出海赚美元了，今天我们换了个姿势而已](maker-stories/programmer-go-global-2022.md)
 
 ## 投稿与推荐
 

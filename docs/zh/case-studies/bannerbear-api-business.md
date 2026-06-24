@@ -63,7 +63,7 @@ Bannerbear 这个案例,有几点特别值得借鉴:
 
 **2. API 是适合独立开发者的好模式。** 一个人维护、B2B 黏性高、可规模化、不需要做花哨的前端。如果你是技术型独立开发者,把能力封装成 API 卖给其他开发者,是一条被反复验证的路。
 
-**3. 定位比功能更重要。** 同样的产品,「维生素」定位增长乏力,「止痛药」定位才跑起来。做产品前先想清楚:谁正在为这个问题真实地疼着?(这一点和 [选品与方向验证](../product-launch/ai-product-idea-validation.md) 里讲的完全一致。)
+**3. 定位比功能更重要。** 同样的产品,「维生素」定位增长乏力,「止痛药」定位才跑起来。做产品前先想清楚:谁正在为这个问题真实地疼着?(这一点和 [选品与方向验证](product-launch/ai-product-idea-validation.md) 里讲的完全一致。)
 
 **4. 快速试错胜过押注单一。** Bannerbear 是「12 个月 12 产品」里跑出来的。先用低成本试多个方向,比在一个没验证的方向上死磕一年更明智。
 
@@ -71,4 +71,4 @@ Bannerbear 这个案例,有几点特别值得借鉴:
 
 *数据来源:Jon Yongfook 在 Indie Hackers 的公开里程碑及多家创业媒体报道,具体数字以其本人公开披露为准。*
 
-*相关阅读:[选品与方向验证](../product-launch/ai-product-idea-validation.md) · [Pieter Levels:一人公司的极致](../maker-stories/pieter-levels-one-person-company.md)*
+*相关阅读:[选品与方向验证](product-launch/ai-product-idea-validation.md) · [Pieter Levels:一人公司的极致](maker-stories/pieter-levels-one-person-company.md)*

@@ -10,7 +10,7 @@ tags: [monetization]
 
 联盟营销（affiliate marketing）的逻辑很简单：你推荐别人的产品，有人通过你的链接买了，你拿一笔佣金。零库存、不用做客服、不用管交付，是内容创作者最轻的变现方式之一。
 
-但联盟营销在中文语境里名声有点复杂——一提到它，很多人想到的是高佣金的减肥药、博彩、擦边产品那一套（这部分见 [联盟营销「黑五类」](affiliate-dark-five-explained.md)，那是另一个高风险的世界）。这篇只讲**正路**：用正经内容推正经产品，赚可持续的佣金。
+但联盟营销在中文语境里名声有点复杂——一提到它，很多人想到的是高佣金的减肥药、博彩、擦边产品那一套（这部分见 [联盟营销「黑五类」](monetization/affiliate-dark-five-explained.md)，那是另一个高风险的世界）。这篇只讲**正路**：用正经内容推正经产品，赚可持续的佣金。
 
 ## 它本质上是「流量的下游变现」
 
@@ -21,7 +21,7 @@ tags: [monetization]
 - 他们相信你的推荐（信任）
 - 你推荐的东西正好是他们要买的（相关性）
 
-这三个缺一不可。没有流量，没人点你的链接；没有信任，点了也不买；不相关，再多流量也转化不了。所以**联盟营销做得好不好，根上取决于你的内容和流量做得好不好。** 它是 [SEO](../growth/seo-from-zero-for-indie-dev.md) 和内容的下游。
+这三个缺一不可。没有流量，没人点你的链接；没有信任，点了也不买；不相关，再多流量也转化不了。所以**联盟营销做得好不好，根上取决于你的内容和流量做得好不好。** 它是 [SEO](growth/seo-from-zero-for-indie-dev.md) 和内容的下游。
 
 ## 哪些内容形态适合做联盟
 
@@ -59,23 +59,23 @@ tags: [monetization]
 
 正路联盟营销也有规矩，踩了轻则被封联盟账号，重则失去读者信任：
 
-- **必须披露**：FTC（美国）等法规要求你明确告诉读者「这是联盟链接，我会拿佣金」。在文章里加一句 disclosure 是硬性要求，也是诚信。GDPR、各平台政策也都有相关要求（参考 [出海合规](../overseas-company/compliance-privacy-tos-gdpr.md)）
+- **必须披露**：FTC（美国）等法规要求你明确告诉读者「这是联盟链接，我会拿佣金」。在文章里加一句 disclosure 是硬性要求，也是诚信。GDPR、各平台政策也都有相关要求（参考 [出海合规](overseas-company/compliance-privacy-tos-gdpr.md)）
 - **只推你真正认可的**：推了烂产品赚一笔，但读者上当一次就不再信你。信任是联盟营销最值钱的资产，透支不起
 - **不刷、不诱导误点**：用障眼法骗点击，联盟项目的风控会查出来，封号扣佣
 - **内容要有真价值**：纯为挂链接堆砌的垃圾内容，既过不了 SEO，也留不住人
 
 ## 对中国开发者的现实建议
 
-**1. 把它当成内容站的「附加收入」，不是主业。** 联盟收入依附于流量。先用 [SEO](../growth/seo-from-zero-for-indie-dev.md) 和内容把流量做起来，联盟是水到渠成的变现，不是单独立项的生意。
+**1. 把它当成内容站的「附加收入」，不是主业。** 联盟收入依附于流量。先用 [SEO](growth/seo-from-zero-for-indie-dev.md) 和内容把流量做起来，联盟是水到渠成的变现，不是单独立项的生意。
 
 **2. 优先做你真实在用的 SaaS 联盟。** 真实体验 + recurring 佣金 + 受众重合，这是最适合开发者的组合。
 
-**3. 收款要提前想好。** 联盟佣金多以美金结算（PayPal、Wise、银行电汇）。确保你有能收这笔钱的通道，见 [合法回款](../payment/bringing-overseas-earnings-back-to-china.md)。
+**3. 收款要提前想好。** 联盟佣金多以美金结算（PayPal、Wise、银行电汇）。确保你有能收这笔钱的通道，见 [合法回款](payment/bringing-overseas-earnings-back-to-china.md)。
 
-**4. 别碰高佣金的灰色项目。** 那些佣金高得离谱的（博彩、擦边、来路不明的金融产品），风险和合规问题远大于收益，详见 [联盟营销「黑五类」](affiliate-dark-five-explained.md)。
+**4. 别碰高佣金的灰色项目。** 那些佣金高得离谱的（博彩、擦边、来路不明的金融产品），风险和合规问题远大于收益，详见 [联盟营销「黑五类」](monetization/affiliate-dark-five-explained.md)。
 
 **5. 认清天花板。** 联盟营销适合做成稳定的副收入流，但天花板受限于你的流量。想要更高上限，它更应该是你多元收入里的一条，而不是全部。
 
 ---
 
-*相关阅读：[变现方式全景](how-to-monetize-decision-guide.md) · [联盟营销「黑五类」](affiliate-dark-five-explained.md) · [独立开发者 SEO 入门](../growth/seo-from-zero-for-indie-dev.md) · [AdSense 不只是挂广告](adsense-unconventional-guide.md)*
+*相关阅读：[变现方式全景](monetization/how-to-monetize-decision-guide.md) · [联盟营销「黑五类」](monetization/affiliate-dark-five-explained.md) · [独立开发者 SEO 入门](growth/seo-from-zero-for-indie-dev.md) · [AdSense 不只是挂广告](monetization/adsense-unconventional-guide.md)*

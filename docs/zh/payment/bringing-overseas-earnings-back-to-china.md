@@ -211,4 +211,4 @@ tags: [payment]
 
 ---
 
-*相关阅读：[中国开发者接入 Stripe](stripe-setup-for-chinese-developers.md) · [Stripe 和 PayPal 之外的收款工具](overseas-payment-tools-beyond-mainstream.md)*
+*相关阅读：[中国开发者接入 Stripe](payment/stripe-setup-for-chinese-developers.md) · [Stripe 和 PayPal 之外的收款工具](payment/overseas-payment-tools-beyond-mainstream.md)*

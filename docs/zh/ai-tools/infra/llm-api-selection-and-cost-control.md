@@ -122,13 +122,13 @@ AI 产品和普通 SaaS 最大的区别，是它的成本结构。
 - **重度用户单独定价。** 给真正高频的用户一个更高的档位，而不是让他们在便宜档位里把你薅穿
 - **成本随模型降价更新定价。** 大模型 API 价格一直在降，定期重算你的成本结构
 
-参考定价模型的详细讨论，见 [SaaS 定价踩坑记](../../monetization/saas-pricing-strategy-guide.md)。
+参考定价模型的详细讨论，见 [SaaS 定价踩坑记](monetization/saas-pricing-strategy-guide.md)。
 
 ## 中国开发者的额外注意点
 
 - **网络可用性：** OpenAI、Anthropic、Google 的 API 对中国 IP 有限制，后端服务器需要部署在海外，或通过合规的海外节点调用
 - **国产模型作为补充：** DeepSeek、Qwen 等国产模型价格极低、国内可直接访问，适合做成本敏感的环节或国内市场的产品。能用国产模型满足质量要求的环节，没必要花贵价用海外模型
-- **不要用来路不明的「中转 API」做生产环境：** 便宜的第三方中转 API 稳定性和数据安全都没保障，关键业务别依赖（相关风险分析见 [AI 中转站是门好生意吗](../../monetization/ai-api-proxy-business-analysis.md)）
+- **不要用来路不明的「中转 API」做生产环境：** 便宜的第三方中转 API 稳定性和数据安全都没保障，关键业务别依赖（相关风险分析见 [AI 中转站是门好生意吗](monetization/ai-api-proxy-business-analysis.md)）
 
 ## 一个最小可行的成本控制清单
 
@@ -147,4 +147,4 @@ AI 产品和普通 SaaS 最大的区别，是它的成本结构。
 
 ---
 
-*相关阅读：[Claude Code、Codex、Cursor 横评](../coding/claude-code-vs-codex-vs-cursor.md) · [SaaS 定价踩坑记](../../monetization/saas-pricing-strategy-guide.md)*
+*相关阅读：[Claude Code、Codex、Cursor 横评](ai-tools/coding/claude-code-vs-codex-vs-cursor.md) · [SaaS 定价踩坑记](monetization/saas-pricing-strategy-guide.md)*

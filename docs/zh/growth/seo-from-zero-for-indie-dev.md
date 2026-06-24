@@ -217,7 +217,7 @@ Connectively（原 HARO）、Help a B2B Writer 这类平台，记者在上面发
 - 同时关注 GEO（Generative Engine Optimization），让你的内容被 AI 搜索引擎引用
 - 工具站受冲击最小——用户搜 "JSON formatter" 就是要用工具，AI 没法替代
 
-关于 GEO 的详细介绍，请看：[GEO 入门：让 AI 搜索引擎找到你](geo-getting-started.md)
+关于 GEO 的详细介绍，请看：[GEO 入门：让 AI 搜索引擎找到你](growth/geo-getting-started.md)
 
 ---
 
@@ -237,4 +237,4 @@ Connectively（原 HARO）、Help a B2B Writer 这类平台，记者在上面发
 
 ---
 
-*相关阅读：[GEO 入门：让 AI 搜索引擎找到你](geo-getting-started.md) · [有钱投流没钱做号：出海流量获取的两条路](paid-vs-organic-traffic-strategy.md)*
+*相关阅读：[GEO 入门：让 AI 搜索引擎找到你](growth/geo-getting-started.md) · [有钱投流没钱做号：出海流量获取的两条路](growth/paid-vs-organic-traffic-strategy.md)*

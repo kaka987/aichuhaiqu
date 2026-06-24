@@ -18,8 +18,8 @@ description: 广告、订阅、联盟营销等流量变现模式详解
 
 ## 已收录文章
 
-- [联盟营销里的「黑五类」：高佣金背后的灰色生意经](affiliate-dark-five-explained.md)
-- [AdSense 不只是挂广告：独立开发者该知道的非常规玩法](adsense-unconventional-guide.md)
+- [联盟营销里的「黑五类」：高佣金背后的灰色生意经](monetization/affiliate-dark-five-explained.md)
+- [AdSense 不只是挂广告：独立开发者该知道的非常规玩法](monetization/adsense-unconventional-guide.md)
 
 ## 计划覆盖
 
