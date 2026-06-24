@@ -1,2 +1,7 @@
 - [概览](index.md)
 - [CC Switch 赞助变现拆解](cc-switch-monetization-playbook.md)
+- [Bannerbear：百万美金 API 生意](bannerbear-api-business.md)
+- [Plausible：反 Google 的开源生意](plausible-analytics-anti-google.md)
+- [ShipFast：失败 15 次后改卖铲子](shipfast-selling-shovels.md)
+- [Kite：烧光 2100 万美金倒下（失败）](kite-too-early-failure.md)
+- [Avatar AI：被大厂碾平（失败）](avatar-ai-crushed-by-lensa.md)

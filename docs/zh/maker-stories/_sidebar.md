@@ -1,2 +1,7 @@
 - [概览](index.md)
 - [程序员出海：20年前到今天](programmer-go-global-2022.md)
+- [Pieter Levels：一人公司的极致](pieter-levels-one-person-company.md)
+- [Tony Dinh：两年做到月入 4.5 万](tony-dinh-zero-to-45k.md)
+- [Marc Lou：失败 15 次后年入百万](marc-lou-failing-forward.md)
+- [Damon Chen：华人开发者两产品破百万](damon-chen-testimonial-pdfai.md)
+- [Daniel Vassallo：一堆小赌注](daniel-vassallo-small-bets.md)
