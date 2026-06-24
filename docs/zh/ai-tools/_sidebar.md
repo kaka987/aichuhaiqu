@@ -1,6 +1,6 @@
 - [概览](index.md)
 - **编程工具**
-  - [Claude Code/Codex/Cursor 横评](coding/claude-code-vs-codex-vs-cursor.md)
-  - [CC Switch](coding/cc-switch.md)
+- [Claude Code/Codex/Cursor 横评](coding/claude-code-vs-codex-vs-cursor.md)
+- [CC Switch](coding/cc-switch.md)
 - **基础设施**
-  - [大模型 API 选型与成本控制](infra/llm-api-selection-and-cost-control.md)
+- [大模型 API 选型与成本控制](infra/llm-api-selection-and-cost-control.md)
