@@ -1,3 +1,5 @@
 - [概览](index.md)
 - [联盟营销「黑五类」详解](affiliate-dark-five-explained.md)
 - [AdSense 不只是挂广告](adsense-unconventional-guide.md)
+- [AI 中转站是门好生意吗](ai-api-proxy-business-analysis.md)
+- [SaaS 定价踩坑记](saas-pricing-strategy-guide.md)

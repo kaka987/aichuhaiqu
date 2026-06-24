@@ -1,1 +1,3 @@
 - [概览](index.md)
+- [出海做什么 AI 产品：选品与方向验证](ai-product-idea-validation.md)
+- [Product Hunt 发布手册](product-hunt-launch-playbook.md)

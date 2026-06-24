@@ -1,1 +1,4 @@
 - [概览](index.md)
+- [中国开发者接入 Stripe](stripe-setup-for-chinese-developers.md)
+- [Stripe/PayPal 之外的收款工具](overseas-payment-tools-beyond-mainstream.md)
+- [海外赚的钱怎么合法回到国内银行卡](bringing-overseas-earnings-back-to-china.md)

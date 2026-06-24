@@ -1,4 +1,5 @@
 - [概览](index.md)
+- [从 0 到 1 完整路线图](zero-to-one-roadmap.md)
 - **出海路线图**
 - [① 注册公司](overseas-company/index.md)
 - [② 开通收付款](payment/index.md)
@@ -7,8 +8,12 @@
 - [⑤ 增长获客](growth/index.md)
 - [⑥ 流量变现](monetization/index.md)
 - **推荐阅读**
+- [AI 出海为什么要注册海外公司](overseas-company/why-overseas-company-for-ai.md)
+- [中国开发者接入 Stripe](payment/stripe-setup-for-chinese-developers.md)
+- [Claude Code/Codex/Cursor 横评](ai-tools/coding/claude-code-vs-codex-vs-cursor.md)
+- [Product Hunt 发布手册](product-launch/product-hunt-launch-playbook.md)
+- [独立开发者 SEO 入门](growth/seo-from-zero-for-indie-dev.md)
+- [AI 中转站是门好生意吗](monetization/ai-api-proxy-business-analysis.md)
 - [CC Switch 变现拆解](case-studies/cc-switch-monetization-playbook.md)
 - [程序员出海 20 年](maker-stories/programmer-go-global-2022.md)
-- [联盟营销「黑五类」](monetization/affiliate-dark-five-explained.md)
-- [从 Shein 发家史聊聊跨境电商](ecommerce/shein-rise-and-cross-border-ecommerce.md)
 - [关于本站](https://www.aichuhaiqu.com/about)
