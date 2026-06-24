@@ -40,7 +40,8 @@
                 <a href="/" class="text-xl font-bold tracking-tight">AI出海去</a>
                 <div class="hidden md:flex items-center gap-8">
                     <a href="/docs/zh/" class="text-sm text-gray-600 hover:text-black transition">知识库</a>
-                    <a href="/blog" class="text-sm text-gray-600 hover:text-black transition">周刊</a>
+                    <a href="/blog/tag/weekly" class="text-sm text-gray-600 hover:text-black transition">周刊</a>
+                    <a href="/blog/tag/daily" class="text-sm text-gray-600 hover:text-black transition">日报</a>
                     <a href="/docs/zh/ai-tools/" class="text-sm text-gray-600 hover:text-black transition">AI工具</a>
                     <a href="/docs/zh/growth/" class="text-sm text-gray-600 hover:text-black transition">增长</a>
                     <a href="/about" class="text-sm text-gray-600 hover:text-black transition">关于</a>
@@ -59,7 +60,8 @@
         </div>
         <div id="mobileDrawer" class="fixed top-0 right-0 w-72 h-full bg-white z-50 hidden shadow-xl p-6 pt-20">
             <a href="/docs/zh/" class="block py-3 text-gray-700 border-b border-gray-100">知识库</a>
-            <a href="/blog" class="block py-3 text-gray-700 border-b border-gray-100">周刊</a>
+            <a href="/blog/tag/weekly" class="block py-3 text-gray-700 border-b border-gray-100">周刊</a>
+            <a href="/blog/tag/daily" class="block py-3 text-gray-700 border-b border-gray-100">日报</a>
             <a href="/docs/zh/ai-tools/" class="block py-3 text-gray-700 border-b border-gray-100">AI工具</a>
             <a href="/docs/zh/growth/" class="block py-3 text-gray-700 border-b border-gray-100">增长</a>
             <a href="/docs/zh/overseas-company/" class="block py-3 text-gray-700 border-b border-gray-100">注册海外公司</a>
@@ -76,11 +78,15 @@
         <section class="pt-32 pb-16 px-6 text-center border-b border-gray-100">
             <div class="max-w-3xl mx-auto">
                 <p class="text-sm uppercase tracking-widest text-gray-400 mb-4">Weekly Newsletter</p>
-                <h1 class="text-5xl md:text-6xl font-black tracking-tight leading-tight">AI出海去周刊</h1>
-                <p class="mt-6 text-lg text-gray-500 max-w-xl mx-auto">每周精选 AI 出海资讯、工具、教程与实战案例，助力中国AI创客走向全球市场。</p>
+                <h1 class="text-5xl md:text-6xl font-black tracking-tight leading-tight">AI出海去周刊&日报</h1>
+                <p class="mt-6 text-lg text-gray-500 max-w-xl mx-auto">每日AI资讯，每周出海干货，精选AI出海资讯、工具、教程与实战案例，快人一步，走向全球。
+                </p>
                 <div class="mt-8 flex items-center justify-center gap-4">
-                    <span class="issue-badge text-white text-xs font-bold px-4 py-2 rounded-full">最新一期</span>
-                    <a href="/blog" class="text-sm text-gray-900 underline underline-offset-4 hover:text-black">查看所有期刊
+                    <a href="/blog/tag/weekly"
+                        class="text-sm text-gray-900 underline underline-offset-4 hover:text-black">查看周刊
+                        →</a>
+                    <a href="/blog/tag/daily"
+                        class="text-sm text-gray-900 underline underline-offset-4 hover:text-black">查看日报
                         →</a>
                 </div>
             </div>
@@ -89,7 +95,7 @@
         <!-- 栏目分类入口 -->
         <section class="py-20 px-6">
             <div class="max-w-6xl mx-auto">
-                <h2 class="text-2xl font-bold text-center mb-12">探索内容</h2>
+                <h2 class="text-2xl font-bold text-center mb-12">AI出海去知识库</h2>
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
 
                     <a href="/docs/zh/ai-tools/" class="category-card block p-6 border border-gray-200 rounded-xl">
